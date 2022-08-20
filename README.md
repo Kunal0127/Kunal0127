@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Kunal0127
-- 👀 I’m interested in python, Java, JS, HTML, CSS
-- 🌱 I’m currently learning reactjs & django framework
-- ✨ My goal is to be a fullstack developer(By next year)
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
       <ul><li>email -> kunal2720@gmail.com</li>
