@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Kunal0127
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :
+
+
+- 📫 reach me :
       <ul><li>email -> kunal2720@gmail.com</li>
              <li>Github -> (<i>No link required</i>)</li></ul>
 <!---
